@@ -1,7 +1,7 @@
 fontawesome-free@6.4.0 https://fontawesome.com/
 simple-icons@8.15.0 https://github.com/simple-icons/simple-icons
 animate.css@3.7.2 https://github.com/animate-css/animate.css
-autocomplete.js@0.38.0 https://github.com/algolia/autocomplete.js
+autocomplete.js@0.38.1 https://github.com/algolia/autocomplete.js
 lunr.js@2.3.9 https://lunrjs.com/
 algoliasearch@4.10.3 https://github.com/algolia/algoliasearch-client-javascript
 lazysizes@5.3.2 https://github.com/aFarkas/lazysizes
