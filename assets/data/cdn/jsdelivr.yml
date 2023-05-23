@@ -33,12 +33,11 @@ libFiles:
   # typeit@8.7.1 https://github.com/alexmacarthur/typeit
   typeitJS: typeit@8.7.1/dist/typeit.min.js
   # katex@0.13.0 https://katex.org/
-  katexCSS: katex@0.13.13/dist/katex.min.css
-  katexJS: katex@0.13.13/dist/katex.min.js
-  katexAutoRenderJS: katex@0.13.13/dist/contrib/auto-render.min.js
-  katexCopyTexCSS: katex@0.13.13/dist/contrib/copy-tex.min.css
-  katexCopyTexJS: katex@0.13.13/dist/contrib/copy-tex.min.js
-  katexMhchemJS: katex@0.13.13/dist/contrib/mhchem.min.js
+  katexCSS: katex@0.16.7/dist/katex.min.css
+  katexJS: katex@0.16.7/dist/katex.min.js
+  katexAutoRenderJS: katex@0.16.7/dist/contrib/auto-render.min.js
+  katexCopyTexJS: katex@0.16.7/dist/contrib/copy-tex.min.js
+  katexMhchemJS: katex@0.16.7/dist/contrib/mhchem.min.js
   # mermaid@8.11.4 https://github.com/knsv/mermaid
   mermaidJS: mermaid@8.11.4/dist/mermaid.min.js
   # echarts@5.1.2 https://echarts.apache.org/
